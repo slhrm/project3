@@ -7,5 +7,5 @@ if st.button("Провери"):
     st.warning("Моля въведи текст")
   elif not name.isalpha():
     st.warning("Внимание")
-  else st.success("Текстът е въведен правилно"):
+  else st.success("Текстът е въведен правилно")
   
