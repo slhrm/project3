@@ -9,4 +9,6 @@ if st.button("Провери"):
     st.warning("Внимание")
   else:
     st.success("Текстът е въведен правилно")
+
+age = st.number_input("Въведи години")
   
